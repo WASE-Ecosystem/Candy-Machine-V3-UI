@@ -292,9 +292,8 @@ const Home = (props: HomeProps) => {
               alt='logo'
             />
           </Link> */}
-          <a href="#">
-            <button>Stake</button>
-          </a>
+          
+          <a href="#">Stake</a>
           
           <WalletContainer>
             <Wallet>
