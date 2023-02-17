@@ -280,7 +280,7 @@ const Home = (props: HomeProps) => {
     <main>
       <>
         <Header>
-          {<Link href='/'>
+          {/* <Link href='/'>
             <img
               style={{
                 filter: 'invert(1)',
@@ -291,9 +291,9 @@ const Home = (props: HomeProps) => {
               src='/logo.png'
               alt='logo'
             />
-          </Link>}
+          </Link> */}
           <a href="#">
-            <button>Stake NFTs</button>
+            <button>Stake</button>
           </a>
           
           <WalletContainer>
