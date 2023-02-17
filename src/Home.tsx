@@ -293,7 +293,7 @@ const Home = (props: HomeProps) => {
             />
           </Link> */}
           <a href="#">
-            <button>Stake NFTs</button>
+            <button className="stake-btn">Stake NFTs</button>
           </a>
           
           <WalletContainer>
