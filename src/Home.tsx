@@ -292,6 +292,10 @@ const Home = (props: HomeProps) => {
               alt='logo'
             />
           </Link> */}
+          <a href="#">
+            <button>Stake NFTs</button>
+          </a>
+          
           <WalletContainer>
             <Wallet>
               {wallet ? (
