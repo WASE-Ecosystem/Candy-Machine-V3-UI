@@ -280,7 +280,7 @@ const Home = (props: HomeProps) => {
     <main>
       <>
         <Header>
-          {/* <Link href='/'>
+          {<Link href='/'>
             <img
               style={{
                 filter: 'invert(1)',
@@ -291,17 +291,10 @@ const Home = (props: HomeProps) => {
               src='/logo.png'
               alt='logo'
             />
-          </Link> */}
-          class MyHeader extends React.Component {
-  render() {
-    return (
-      <div>
-      <h1 style={{backgroundColor: "lightblue"}}>Hello Style!</h1>
-      <p>Add a little style!</p>
-      </div>
-    );
-  }
-}
+          </Link>}
+          <a href="#">
+            <button>Stake NFTs</button>
+          </a>
           
           <WalletContainer>
             <Wallet>
