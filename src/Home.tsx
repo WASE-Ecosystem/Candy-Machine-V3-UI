@@ -334,8 +334,8 @@ const Home = (props: HomeProps) => {
               </Heading>
 
               <p>
-                6942 Rejected f00kers here to f00k shit up. 3 mints max per
-                wallet. Free. f00k f00k Mother f00kers.
+                10 Rejected Blood S00kers here to s0ck shit up. 3 mints max per
+                wallet. Free. bl00d bl00d Mother f00kers.
               </p>
 
               {guardStates.isStarted && (
